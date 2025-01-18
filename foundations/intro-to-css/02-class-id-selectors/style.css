@@ -1,0 +1,19 @@
+.same{
+    background-color: rgb(246, 152, 168);
+    color: black;
+    font-family: Verdana,"DejaVu Sans", sans-serif;
+}
+.same.n3{
+    font-size: 24px;
+}
+#n2{
+    color: blue;
+    font-size: 36px;
+
+}
+#n4{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+
+}
